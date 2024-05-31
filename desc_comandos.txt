@@ -1,0 +1,21 @@
+## Descripción de Comandos de Git
+
+# clone
+
+Permite clonar un repositorio remoto (web) al ordenador, teniendo así acceso a el sin internet.
+
+# push
+
+Con este comando es posible enviar los cambios realizados del repositorio local a uno remoto.
+
+# pull
+
+Verifica que la version del repositorio sea la mas "nueva", es decir, que tenga las mas recientes modificaciones. Si no es así, las incluirá al repositorio del ordenador.
+
+# branch
+
+Con *git branch* es posible ver las ramas existentes y ver en cual nos encontramos. Si le ponemos otro elemento (git branch update, por ejemplo), crea una rama con el nombre indicado.
+
+# switch
+
+Permite el desplazamiento entre ramas.
