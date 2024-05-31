@@ -19,3 +19,7 @@ Con *git branch* es posible ver las ramas existentes y ver en cual nos encontram
 # switch
 
 Permite el desplazamiento entre ramas.
+
+# merge
+
+Fusiona los elementos de la rama indicada con los de la rama en la que nos encontramos. Por ejemplo, si nos encontramos en la rama main y ejecutamos *git merge optimizacion_datos*, la rama "optimizacion_datos" se fusionará con *main*.
