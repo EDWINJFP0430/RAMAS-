@@ -1,25 +1,25 @@
-## Descripción de Comandos de Git
+Descripción de Comandos de Git
 
-# clone
+1. clone
 
 Permite clonar un repositorio remoto (web) al ordenador, teniendo así acceso a el sin internet.
 
-# push
+2. push
 
 Con este comando es posible enviar los cambios realizados del repositorio local a uno remoto.
 
-# pull
+3. pull
 
 Verifica que la version del repositorio sea la mas "nueva", es decir, que tenga las mas recientes modificaciones. Si no es así, las incluirá al repositorio del ordenador.
 
-# branch
+4. branch
 
 Con *git branch* es posible ver las ramas existentes y ver en cual nos encontramos. Si le ponemos otro elemento (git branch update, por ejemplo), crea una rama con el nombre indicado.
 
-# switch
+5. switch
 
 Permite el desplazamiento entre ramas.
 
-# merge
+6. merge
 
 Fusiona los elementos de la rama indicada con los de la rama en la que nos encontramos. Por ejemplo, si nos encontramos en la rama main y ejecutamos *git merge optimizacion_datos*, la rama "optimizacion_datos" se fusionará con *main*.
